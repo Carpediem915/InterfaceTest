@@ -1,0 +1,6 @@
+{
+  "login": {"name": "jay", "pwd": "123"},
+  "info": {"name": "张三"},
+  "users": {},
+  "weather": {"city": "成都", "key": "060db39c6b279a6da8175572f0707572"}
+}
